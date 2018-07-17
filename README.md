@@ -27,7 +27,7 @@ Surf уже более 7 лет специализируется на разра
 1. [Все из ничего (12 июля)](https://docs.google.com/presentation/d/1ixmdVi3aLeW1rIzS3tbQdVx_vVTbZdeDAlW83l6wPo4/edit)
 2. [Правила хорошего кода (13 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%202.%20Правила%20хорошего%20кода/README.md)
 3. [Вводная к iOS курсу (16 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%201.%20Введение%20в%20iOS%20разработку/README.md)
-4. Инструментарий разработчика (17 июля)
+4. [Инструментарий разработчика (17 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%202.%20Инструментарий%20разработчика/README.md)
 5. Навигация (18 июля)
 6. UI (19 июля)
 7. Работа с данными (20 июля)
