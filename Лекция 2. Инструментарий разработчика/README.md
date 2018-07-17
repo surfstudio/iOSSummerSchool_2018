@@ -41,6 +41,7 @@
  * [Документация c подробным пояснением][23]
  * [Короткая вводная на русском][24]
  * [Более подробно на русском][25]
+ * [Интерактивный тренажер для работы с ветками][26]
 
 
 https://www.raywenderlich.com/192939/creating-a-framework-for-ios
@@ -67,6 +68,7 @@ https://www.raywenderlich.com/192939/creating-a-framework-for-ios
 [20]: https://developer.apple.com/metal/
 [21]: https://github.com/adamnemecek/awesome-metal
 [22]: https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/OSX_Technology_Overview/About/About.html#//apple_ref/doc/uid/TP40001067-CH204-TPXREF101
-[23]: https://git-scm.com/docs
+[23]: https://git-scm.com/book/ru/v2
 [24]: https://tproger.ru/translations/git-quick-start/
 [25]: https://habr.com/post/342116/
+[26]: https://learngitbranching.js.org
