@@ -7,7 +7,7 @@
 |3|[@Sakura-kun](https://github.com/Sakura-kun)|#18 Интернет радио||1. <br>2.|
 |4|[@SilvercrossHS](https://github.com/SilvercrossHS)|#2 Рецепты коктейлей||1. <br>2.|
 |5|[@Arseburger](https://github.com/Arseburger)|#4 Просмотр мемов||1. <br>2.|
-|6|[@leshchinskaya](https://github.com/leshchinskaya)|#13 Отображение изображений по настроению||1. <br>2.|
+|6|[@leshchinskaya](https://github.com/leshchinskaya)|#13 Отображение изображений по настроению| https://github.com/leshchinskaya/ShowMood |1.(1) @alexfilimon <br>2.(10) @artemiiShabanov |
 |7|[@thd-nks](https://github.com/thd-nks)|#11 Справочник по фильмам||1. <br>2.|
 |8|[@Juliett13](https://github.com/Juliett13)|#11 Справочник по фильмам||1. <br>2.|
 |9|[@Neprincessa](https://github.com/Neprincessa)|#10 Гайд по уровням жизни в городах ||1. <br>2.|
