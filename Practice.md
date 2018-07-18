@@ -10,7 +10,7 @@
 |6|[@leshchinskaya](https://github.com/leshchinskaya)|#13 Отображение изображений по настроению| https://github.com/leshchinskaya/ShowMood |1.(1) @alexfilimon <br>2.(10) @artemiiShabanov |
 |7|[@thd-nks](https://github.com/thd-nks)|#11 Справочник по фильмам||1. <br>2.|
 |8|[@Juliett13](https://github.com/Juliett13)|#11 Справочник по фильмам||1. <br>2.|
-|9|[@Neprincessa](https://github.com/Neprincessa)|#10 Гайд по уровням жизни в городах ||1. <br>2.|
+|9|[@Neprincessa](https://github.com/Neprincessa)|#10 Гайд по уровням жизни в городах | https://github.com/Neprincessa/LifeLevel |1. <br>2.|
 |10|[@artemiiShabanov](https://github.com/artemiiShabanov)|#7 Гайд по персонажам Marvel|https://github.com/artemiiShabanov/surf-ios|1.(1) @alexfilimon <br>2.(6) @leshchinskaya|
 |11|[@Kushslush](https://github.com/Kushslush)|#2 Рецепты коктейлей||1. <br>2.|
 |12|[@eleenee](https://github.com/eleenee)|#16 Мой сад||1. <br>2.|
@@ -21,7 +21,7 @@
 |17|[@Decim413](https://github.com/Decim413)|#9 Файловый менеджер VK||1. <br>2.|
 |18|[@sid0adams](https://github.com/sid0adams)|#18 Интернет радио||1. <br>2.|
 |19|[@PigOnTheWing](https://github.com/PigOnTheWing)|#10 Гайд по уровням жизни в городах||1. <br>2.|
-|20|[@Tenfleques](https://github.com/Tenfleques)|#13 Отображение изображений по настроению||1. <br>2.|
+|20|[@Tenfleques](https://github.com/Tenfleques)|#13 Отображение изображений по настроению||1.(9)@Neprincessa <br>2.|
 |21|[@olya757](https://github.com/olya757)|#3 Генератор мемов||1. <br>2.|
 |22|[@Gena-gol](https://github.com/Gena-gol)|#3 Генератор мемов||1. <br>2.|
 |23|||||
