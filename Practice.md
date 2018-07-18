@@ -3,7 +3,7 @@
 |#|Студент|Тема проекта|Репозиторий|Проекты для ревью|
 |---|---|---|---|---|
 |1|[@alexfilimon](https://github.com/alexfilimon)|#16 Мой сад| http://github.com/alexfilimon/My-garden |1.(6) @leshchinskaya <br>2.(10) @artemiiShabanov |
-|2|[@janesv](https://github.com/janesv)|#8 Просмотрщик xkcd комиксов||1. <br>2.|
+|2|[@janesv](https://github.com/janesv)|#8 Просмотрщик xkcd комиксов|https://github.com/janesv/iComicBooks|1.(9) @Neprincessa <br>2.(11) @Kushslush|
 |3|[@Sakura-kun](https://github.com/Sakura-kun)|#18 Интернет радио||1. <br>2.|
 |4|[@SilvercrossHS](https://github.com/SilvercrossHS)|#2 Рецепты коктейлей||1. <br>2.|
 |5|[@Arseburger](https://github.com/Arseburger)|#4 Просмотр мемов||1. <br>2.|
