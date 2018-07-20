@@ -30,7 +30,7 @@ Surf уже более 7 лет специализируется на разра
 4. [Инструментарий разработчика (17 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%202.%20Инструментарий%20разработчика/README.md)
 5. [Навигация (18 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%203.%20Навигация/README.md)
 6. [UI (19 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%204.%UI/README.md)
-7. Работа с данными (20 июля)
+7. [Работа с данными (20 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%205.%Работа%20с%20данными/README.md)
 8. Работа с асинхронными задачами (23 июля)
 9. Особенности работы на больших проектах (24 июля)
 10. Заключительная лекция (25 июля)
