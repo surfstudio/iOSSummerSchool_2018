@@ -16,7 +16,7 @@
 |12|[@eleenee](https://github.com/eleenee)|#16 Мой сад||1. <br>2.|
 |13|[@Teyran](https://github.com/Teyran)|#15 RestRoulette||1. <br>2.|
 |14|[@sunlight21](https://github.com/sunlight21)|#12 Справочник по "Игре престолов"||1. <br>2.|
-|15|[@TairusDjons](https://github.com/TairusDjons)|#7 Гайд по персонажам Marvel||1. <br>2.|
+|15|[@TairusDjons](https://github.com/TairusDjons)|#7 Гайд по персонажам Marvel|https://github.com/TairusDjons/MarvelHeroesGuide|1.@Balagnese <br>2.@Decim413|
 |16|[@Balagnese](https://github.com/Balagnese)|#14 Редактор конспектов||1. <br>2.|
 |17|[@Decim413](https://github.com/Decim413)|#9 Файловый менеджер VK||1. <br>2.|
 |18|[@sid0adams](https://github.com/sid0adams)|#18 Интернет радио||1. <br>2.|
