@@ -1,6 +1,6 @@
 # Лекция 8. Заключительная лекция
 
-## [🎁 Презентация лекции (PDF)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/lectures/Лекция%208.%20Заключение/Лекция%208.%20Заключение.pdf)
+## [🎁 Презентация лекции (PDF)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%208.%20Заключение/Лекция%208.%20Заключение.pdf)
 
 ## 📚 Материалы
 
