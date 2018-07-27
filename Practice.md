@@ -22,7 +22,7 @@
 |18|[@sid0adams](https://github.com/sid0adams)|#18 Интернет радио|https://github.com/sid0adams/MyRadio|1. <br>2.|
 |19|[@PigOnTheWing](https://github.com/PigOnTheWing)|#10 Гайд по уровням жизни в городах||1. <br>2.|
 |20|[@Tenfleques](https://github.com/Tenfleques)|#13 Отображение изображений по настроению||1.(9)@Neprincessa <br>2.|
-|21|[@olya757](https://github.com/olya757)|#3 Генератор мемов||1. <br>2.|
+|21|[@olya757](https://github.com/olya757)|#3 Генератор мемов|https://github.com/olya757/memes-generate|1. <br>2.|
 |22|[@Gena-gol](https://github.com/Gena-gol)|#3 Генератор мемов||1. <br>2.|
 |23|||||
 |24|||||
