@@ -24,7 +24,7 @@ Surf уже более 7 лет специализируется на разра
 
 План лекций:
 
-1. [Все из ничего (12 июля)](https://docs.google.com/presentation/d/1ixmdVi3aLeW1rIzS3tbQdVx_vVTbZdeDAlW83l6wPo4/edit)
+1. [Все из ничего (12 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%20О1.%20Все%20из%20ничего/README.md)
 2. [Правила хорошего кода (13 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%20О2.%20Правила%20хорошего%20кода/README.md)
 3. [Вводная к iOS курсу (16 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%201.%20Введение%20в%20iOS%20разработку/README.md)
 4. [Инструментарий разработчика (17 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%202.%20Инструментарий%20разработчика/README.md)
@@ -33,7 +33,7 @@ Surf уже более 7 лет специализируется на разра
 7. [Работа с данными (20 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%205.%20Работа%20с%20данными/README.md)
 8. [Работа с асинхронными задачами (23 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%206.%20Работа%20с%20асинхронными%20задачами/README.md)
 9. [Особенности работы на больших проектах (24 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%207.%20Особенности%20работы%20на%20больших%20проектах/README.md)
-10. Заключительная лекция (25 июля)
+10. [Заключительная лекция (25 июля)](https://github.com/surfstudio/iOSSummerSchool2018/blob/master/Лекция%208.%20Заключение/README.md)
 
 ## Практика
 
